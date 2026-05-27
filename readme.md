@@ -26,7 +26,7 @@ L'implémentation a été pensée traduite du `R` en `Python`. Les scripts princ
 
 Le code permet de simuler et d'analyser le comportement asymptotique sur grille ($121 \times 121$) pour les champs suivants :
 * **Champ Gaussien Isotrope :** Indépendance asymptotique, contraction des clusters en $1/u$.
-* **Champ de Student ($k=3$) :** Queues lourdes, stabilisation macroscopique sans renormalisation (autosimilitude).
+* **Champ de Student ($k=3$) :** Queues lourdes, stabilisation macroscopique sans renormalisation.
 * **Champ Chi-deux ($k=3$) :** Contraction spatiale sous-gaussienne en $1/\sqrt{u}$.
 * **Champ Mélange de Pareto ($\alpha=2$) :** Modèle d'échelle à queue lourde avec convergence stable.
 * **Champ Gaussien Anisotropique :** Introduction d'une matrice de forme modifiant la densité de périmètre (LKC dimension 1) d'un facteur $\sqrt{\det(\Lambda)}$.
